@@ -4,6 +4,6 @@ Strands Agent which connects to a monday.com MCP server allowing for natural lan
 ## Connecting via AWS
 Add your AWS credentials (note you must have the model access for whichever model you choose to use) in the CLI/Terminal
 
-
+## Demo
 https://github.com/user-attachments/assets/1d84a7f8-5d04-4f8b-b123-1522030a0d36
 
